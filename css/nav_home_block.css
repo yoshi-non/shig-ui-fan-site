@@ -1,0 +1,19 @@
+.nav_home_block{
+    background-color: #d4455b;
+    padding-top: 20px;
+}
+
+.title_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    background-color: #FFB6C1;
+}
+.title_container:hover .nav_home img, .title_container:hover .title_block{
+    opacity: .7;
+}
+.nav_home img{
+    height: 100px;
+}
+

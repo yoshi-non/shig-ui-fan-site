@@ -1,0 +1,14 @@
+.form_block{
+    display: block;
+    text-align: center;
+}
+.form_block iframe{
+    width: 991px;
+}
+
+/* 768px ~ 991px design */
+@media (max-width: 991px) {
+    .form_block iframe{
+        width: 100%;
+    }    
+}
